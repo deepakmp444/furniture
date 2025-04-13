@@ -412,7 +412,7 @@ export default function Home() {
                   </div>
                   
                   <p className="text-gray-600 italic mb-4">
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
                   
                   <div className="flex items-center bg-gray-50 p-3 rounded-lg mt-4">
